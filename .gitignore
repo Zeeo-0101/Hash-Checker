@@ -1,0 +1,24 @@
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# IDE 配置文件
+.vscode/
+.idea/
+
+# 系统临时文件
+.DS_Store
+Thumbs.db
+
+# 打包产物（不想上传zip就保留这行；要上传就删掉 *.zip 这一行）
+*.zip
+*.rar
+*.7z
+dist/
+build/
